@@ -1,0 +1,8 @@
+{
+  "appId": "uz.tarixchi.app",
+  "appName": "Tarixchi",
+  "webDir": "www",
+  "server": {
+    "url": "https://venerable-horse-704fcc.netlify.app",
+    "cleartext": false
+  }
